@@ -15,6 +15,13 @@ export default defineConfig([
   "prefer-const": "error",
   "no-console": "off",
   "no-unused-vars": "warn",
+  "no-var": "error",
+  "indent": "error",
+  "no-multi-spaces": "error",
+  "space-in-parens": "error",
+  "no-multiple-empty-lines": "error",
+  "prefer-const": "error",
+  "no-use-before-define": "error"
   "quotes": [
       "error",
       "double"
