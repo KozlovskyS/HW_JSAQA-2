@@ -1,0 +1,22 @@
+{
+  "name": "hw_jsaqa-2",
+  "version": "1.0.0",
+  "description": "homework_JSAQA-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KozlovskyS",
+  "license": "ISC",
+  "devDependencies": {
+    "@cspell/eslint-plugin": "^9.0.2",
+    "@eslint/js": "^9.27.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^9.27.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.4.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.1.0",
+    "prettier": "3.5.3"
+  }
+}
